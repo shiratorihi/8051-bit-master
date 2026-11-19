@@ -1,4 +1,4 @@
-#include <mcs51/stc89.h>
+#include "STC89C5xRC.h"
 
 void main(void) {
   P0 = 0xFE;
